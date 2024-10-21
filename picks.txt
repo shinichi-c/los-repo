@@ -1,12 +1,1 @@
 repopick -p 404335
-repopick -p 405323
-repopick -p 401683
-repopick -p 404379
-repopick -p 404099
-repopick -p 402919
-repopick -p 402832
-repopick -p 401979
-repopick -p 405071
-repopick -p 404380
-repopick -p 403061
-repopick -p 403987
