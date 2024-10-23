@@ -31,4 +31,8 @@ repopick -p 403061 # FM2: Slight design adjustments
 # vendor/qcom/opensource/usb
 repopick -p 403987 # hal: Make it build with -Werror
 
+# lineage-sdk
+repopick -p 405324 # Clear restricted networking mode allowlist
+
+
 wait
