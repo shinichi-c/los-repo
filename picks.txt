@@ -16,9 +16,6 @@ repopick -p 404099 # LineageParts: Set fitsSystemWindows to true for PartsActivi
 # packages/apps/Settings
 repopick -p 402919 # NetworkProvider: Remove header start padding in SuW
 
-# packages/apps/Trebuchet
-repopick -p 402832 # Trebuchet: Let's keep 2-button nav alive for a little longer
-
 # packages/modules/Bluetooth
 repopick -p 401979 # BondStateMachine: Allow skipping confirm for some remotes
 
